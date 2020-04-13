@@ -21,5 +21,10 @@ int main(void) {
         printf("Memory Allocation Success\n");
     }
 
+    free(ptr_i);
+    ptr_i = NULL;
+    free(ptr_d);
+    ptr_d = NULL;
+
     return 0;
 }
