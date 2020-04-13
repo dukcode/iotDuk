@@ -1,0 +1,10 @@
+{
+        "files.associations": {
+                "string.h": "c",
+                "math.h": "c",
+                "stdnoreturn.h": "c",
+                "iostream": "cpp",
+                "stdio.h": "c",
+                "my_print_functions.C": "cpp"
+        }
+}
